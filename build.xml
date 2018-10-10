@@ -13,7 +13,6 @@
 			<include name="**/*.jar" />
 		</fileset>
 	</path>
-	
 -->
 <tstamp/>
 <target name="init" description="Creates the required build directories">
